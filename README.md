@@ -266,7 +266,7 @@ status: Building reliable software & scaling intelligent systems 🚀
       </td>
       <td align="center" width="50%">
         <a href="https://github.com/aps4934/streak">
-          <img src="https://streak-stats.demolab.com/?user=aps4934&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak" width="100%" />
+          <img src="https://streak-stats.demolab.com/?user=aps4934&starting_year=2023&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak" width="100%" />
         </a>
       </td>
     </tr>
