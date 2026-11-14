@@ -1,229 +1,304 @@
+<!-- ================================================================= -->
+<!-- 🚀 ADITYA PRATAP SINGH | HYPER-AESTHETIC GITHUB PROFILE README     -->
+<!-- ================================================================= -->
+
 <div align="center">
 
-# 👨‍💻 Aditya Pratap Singh
+  <!-- Dynamic Waving Animated Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2&height=220&section=header&text=Aditya%20Pratap%20Singh&fontSize=48&fontAlignY=38&animation=twinkling&desc=Software%20Engineer%20%E2%80%A2%20AI%2FLLM%20Systems%20%E2%80%A2%20Backend%20Architect&descAlignY=62&descAlign=50" width="100%" alt="Header Banner"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=650&lines=Software+Engineer+%40+Turing;AI+%26+LLM+Trainer+%40+Snorkel+AI;FastAPI+%7C+Python+%7C+React.js+%7C+Docker;350%2B+DSA+Problems+Solved+on+LeetCode;Building+Scalable+Backends+%26+AI+Systems" alt="Typing SVG" />
-</p>
+  <!-- Dynamic Typing Terminal Animation -->
+  <p align="center">
+    <a href="https://portfolio-3hns.onrender.com/">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=👋+Hello+World%2C+I'm+Aditya!;🚀+Software+Engineer+%40+Turing;🤖+AI+%26+LLM+Trainer+%40+Snorkel+AI;⚡+FastAPI+%7C+Python+%7C+React.js+%7C+Docker;🧩+350%2B+LeetCode+Problems+Solved+%7C+DSA+Enthusiast;💡+Building+Scalable+Backends+%26+AI+Systems" alt="Typing SVG" />
+    </a>
+  </p>
 
-<p align="center">
-  <a href="https://portfolio-3hns.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-22C55E?style=for-the-badge&logo=render&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/aps4934g"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://leetcode.com/u/aditya_0013"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <a href="mailto:sadityapratap070@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+  <!-- Interactive Social & Profile Badges -->
+  <p align="center">
+    <a href="https://portfolio-3hns.onrender.com/"><img src="https://img.shields.io/badge/🌐_Portfolio-00F5FF?style=for-the-badge&logoColor=black" alt="Portfolio" /></a>
+    <a href="https://linkedin.com/in/aps4934g"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://leetcode.com/u/aditya_0013"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+    <a href="mailto:sadityapratap070@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <img src="https://komarev.com/ghpvc/?username=aps4934&label=Profile%20Views&color=22c55e&style=for-the-badge" alt="Profile Views" />
+  </p>
 
----
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 </div>
 
-## 📌 About Me
+<br/>
 
-I am a **Software Engineer** with professional industry experience across **software development**, **AI model training**, and **technical code evaluation** at **Turing**, **Snorkel AI**, and **Handshake**. 
+## 💫 About Me
 
-- 🔭 **Backend & Distributed Systems:** Strong expertise in building high-performance, asynchronous REST APIs with **Python** and **FastAPI**, containerized using **Docker**, with reliable database architectures.
-- 🤖 **AI/LLM Engineering:** Deep experience evaluating AI-generated code, prompt engineering, integrating the **Gemini API**, and optimizing model outputs for correctness, security, and edge-case resilience.
-- 🎓 **Education:** Bachelor of Technology in **Computer Science (Artificial Intelligence & Machine Learning)** from **Pranveer Singh Institute of Technology (PSIT), Kanpur** (CGPA: **8.0 / 10.0**).
-- 💡 **Problem Solving:** Solved **350+ Data Structures & Algorithms** problems across LeetCode and competitive coding platforms.
+```yaml
+name: Aditya Pratap Singh
+location: Delhi / Kanpur, India
+role: Software Engineer & AI Systems Developer
+education: B.Tech in CS (AI & ML) @ PSIT Kanpur (CGPA: 8.0 / 10.0)
+focus_areas:
+  - High-Throughput Asynchronous Backends (FastAPI, Python)
+  - AI / LLM Evaluation & Pipeline Engineering (Gemini API, Prompting)
+  - Distributed Systems, Dockerization & Cloud Deployments
+  - Algorithmic Problem Solving (350+ LeetCode Solutions)
+status: Building reliable software & scaling intelligent systems 🚀
+```
+
+- 🔭 **Current Focus:** Engineering resilient backend architectures, developing microservices, and fine-tuning AI evaluation pipelines at **Turing** and **Snorkel AI**.
+- 💡 **Core Philosophy:** Clean code, robust API contracts, zero-downtime scalability, and meticulous test coverage.
+- 🎯 **Competitive Coding:** Actively sharpening Data Structures & Algorithms expertise with over **350+ solved challenges** on LeetCode.
+
+<br/>
 
 ---
 
-## 💼 Professional Experience
+## 💼 Industry Experience
 
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│ 🚀 Turing                                             Aug 2026 – Present   │
-│    Role: Software Engineer                                                  │
-│    • Contributed to backend development, REST API design, and workflows.    │
-│    • Emphasized code quality, reliability, maintainability, and testing.    │
-├─────────────────────────────────────────────────────────────────────────────┤
-│ 🔬 Snorkel AI                                         Jul 2026 – Present   │
-│    Role: AI Trainer                                                         │
-│    • Evaluated AI-generated software outputs for technical correctness.     │
-│    • Analyzed code logic, identified edge cases, and shaped model feedback. │
-├─────────────────────────────────────────────────────────────────────────────┤
-│ 🤝 Handshake                                          May 2026 – Present   │
-│    Role: Reviewer / LLM Trainer                                             │
-│    • Reviewed engineering responses, debugging solutions, and edge cases.   │
-│    • Delivered structured technical feedback to enhance LLM consistency.    │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
-
----
-
-## 🛠️ Technical Skills
-
-<table>
+<table width="100%">
   <tr>
-    <td width="25%"><strong>💻 Languages</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
+      <h3>🚀 <a href="https://www.turing.com/">Turing</a> &nbsp;|&nbsp; <code>Aug 2026 – Present</code></h3>
+      <strong>Software Engineer</strong>
+      <ul>
+        <li>Engineer robust backend architectures, REST API integrations, and scalable service workflows.</li>
+        <li>Spearhead code quality initiatives focusing on maintainability, modularity, and automated testing.</li>
+        <li>Debug complex application logic, resolve edge cases, and enhance latency across distributed components.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      </p>
     </td>
   </tr>
   <tr>
-    <td><strong>⚙️ Backend & APIs</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-      <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=rest&logoColor=white" alt="REST APIs" />
-      <img src="https://img.shields.io/badge/AsyncIO-3776AB?style=flat-square&logo=python&logoColor=white" alt="AsyncIO" />
-      <img src="https://img.shields.io/badge/Authentication-24292E?style=flat-square&logo=json-web-tokens&logoColor=white" alt="Auth" />
-      <img src="https://img.shields.io/badge/Request_Validation-4B8BBE?style=flat-square" alt="Validation" />
+      <h3>🔬 <a href="https://snorkel.ai/">Snorkel AI</a> &nbsp;|&nbsp; <code>Jul 2026 – Present</code></h3>
+      <strong>AI Trainer</strong>
+      <ul>
+        <li>Evaluate AI-generated software engineering outputs for technical accuracy, logic, and efficiency.</li>
+        <li>Diagnose edge cases in generated code, structure technical corrections, and benchmark model capabilities.</li>
+        <li>Synthesize targeted feedback to guide LLM training loops toward production-grade engineering standards.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/AI_Evaluation-8E75B2?style=flat-square"/>
+        <img src="https://img.shields.io/badge/LLM_Benchmarking-FF6F00?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Code_Analysis-10A37F?style=flat-square"/>
+      </p>
     </td>
   </tr>
   <tr>
-    <td><strong>🎨 Frontend</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>🤖 AI & LLM</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Google_Gemini_API-8E75B2?style=flat-square&logo=google&logoColor=white" alt="Gemini API" />
-      <img src="https://img.shields.io/badge/Prompt_Engineering-10A37F?style=flat-square&logo=openai&logoColor=white" alt="Prompt Eng" />
-      <img src="https://img.shields.io/badge/LLM_Integration-FF6F00?style=flat-square" alt="LLM Integration" />
-      <img src="https://img.shields.io/badge/AI_Assisted_Dev-000000?style=flat-square" alt="AI Dev" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>🗄️ Databases</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-      <img src="https://img.shields.io/badge/Database_Design-003B57?style=flat-square" alt="DB Design" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>📦 DevOps & Tools</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>🎯 Methodologies & CS</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-FFA116?style=flat-square" alt="DSA" />
-      <img src="https://img.shields.io/badge/DBMS-4479A1?style=flat-square" alt="DBMS" />
-      <img src="https://img.shields.io/badge/Operating_Systems-00599C?style=flat-square" alt="OS" />
-      <img src="https://img.shields.io/badge/Computer_Networks-2496ED?style=flat-square" alt="Networks" />
-      <img src="https://img.shields.io/badge/OOP-3776AB?style=flat-square" alt="OOP" />
-      <img src="https://img.shields.io/badge/Agile_%2F_Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" />
+      <h3>🤝 <a href="https://www.joinhandshake.com/">Handshake</a> &nbsp;|&nbsp; <code>May 2026 – Present</code></h3>
+      <strong>Reviewer / LLM Trainer</strong>
+      <ul>
+        <li>Reviewed AI-generated programming responses across diverse software engineering stacks.</li>
+        <li>Audited debugging approaches, identified subtle runtime vulnerabilities, and refined code quality.</li>
+        <li>Delivered technical evaluations ensuring consistency, security, and algorithmic soundness.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Code_Review-24292E?style=flat-square&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Model_Evaluation-4B8BBE?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Quality_Assurance-22C55E?style=flat-square"/>
+      </p>
     </td>
   </tr>
 </table>
+
+<br/>
+
+---
+
+## 🛠️ Tech Stack & Arsenal
+
+<div align="center">
+
+### 💻 Languages & Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,java,cpp,js,mysql&theme=dark" alt="Languages" />
+</p>
+
+### ⚙️ Backend, Frontend & AI
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,react,html,css,nodejs&theme=dark" alt="Frameworks" />
+</p>
+
+### 📦 DevOps, Cloud & Developer Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,vscode&theme=dark" alt="Tools" />
+</p>
+
+</div>
+
+<br/>
+
+<details>
+<summary><strong>🔍 Click to expand detailed skills breakdown</strong></summary>
+
+<br/>
+
+| Domain | Technologies & Competencies |
+| :--- | :--- |
+| **Languages** | Python 3, Java, C++, Modern JavaScript (ES6+), SQL |
+| **Backend & Microservices** | FastAPI, Asynchronous Programming (`asyncio`), RESTful Architecture, JWT Authentication, Request Validation, API Integration |
+| **Frontend Development** | React.js, Responsive HTML5, CSS3, DOM Manipulation, Single Page Applications |
+| **AI & LLM Integration** | Google Gemini API, Prompt Engineering, Evaluation Metrics, LLM-Assisted Dev Workflows |
+| **Database Management** | MySQL, Relational Database Design, Query Optimization, Indexing, Transactions |
+| **DevOps & Containers** | Docker (Containerization, Multi-Stage Builds), Linux Shell, Git Version Control, CI/CD Workflows |
+| **Computer Science Fundamentals** | Data Structures & Algorithms, DBMS, Operating Systems, Computer Networks, Object-Oriented Programming (OOP) |
+| **Collaboration & Methodologies** | Jira, Trello, Figma, Agile / Scrum Frameworks, Peer Code Reviews |
+
+</details>
+
+<br/>
 
 ---
 
 ## 🚀 Featured Engineering Projects
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🔗 <a href="https://github.com/aps4934/url-shortener">Smart URL Shortener</a></h3>
-      <p>High-performance web utility that converts long, cumbersome URLs into compact, shareable links with sub-millisecond redirect speeds.</p>
+      <div align="center">
+        <h3>🔗 <a href="https://github.com/aps4934/url-shortener">Smart URL Shortener</a></h3>
+      </div>
+      <p>High-throughput URL shortening service converting lengthy URLs into unique, compact aliases with sub-millisecond redirection performance.</p>
       <ul>
-        <li>Implemented unique short-code generation algorithm.</li>
-        <li>Automatic redirection architecture with zero external database bottleneck.</li>
-        <li>Deployed live on Render with optimized asynchronous request handling.</li>
+        <li><b>Zero-DB Dependency:</b> Engineered collision-free hashing algorithm for rapid code generation.</li>
+        <li><b>Asynchronous Engine:</b> Built with FastAPI for optimal I/O handling and high concurrent traffic.</li>
+        <li><b>Live Deployment:</b> Fully deployed and operational on Render with health telemetry.</li>
       </ul>
-      <p>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" />
-      </p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="28"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28"/>
+        <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" height="28"/>
+      </div>
     </td>
     <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/aps4934/AI_powered_code_generator">AI-Powered Code Generation Service</a></h3>
-      <p>Intelligent developer assistant application that translates natural language prompts into optimized, production-ready code snippets.</p>
+      <div align="center">
+        <h3>🤖 <a href="https://github.com/aps4934/AI_powered_code_generator">AI Code Generation Service</a></h3>
+      </div>
+      <p>Intelligent developer productivity suite that transforms natural language prompts into optimized, modular, production-ready code.</p>
       <ul>
-        <li>Integrated Google Gemini API backend through robust FastAPI endpoints.</li>
-        <li>Engineered structured prompt templates, error validation, and output parsing.</li>
-        <li>Built for rapid prototyping and AI-assisted software workflows.</li>
+        <li><b>Gemini API Integration:</b> Deep integration with Google's Gemini models for real-time code synthesis.</li>
+        <li><b>Structured Output:</b> Implemented prompt guardrails, strict input sanitization, and Markdown formatting.</li>
+        <li><b>Rapid Prototyping:</b> Accelerates engineering loops via automated refactoring suggestions.</li>
       </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=google&logoColor=white" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      </p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=google&logoColor=white" height="28"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="28"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28"/>
+      </div>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📈 <a href="https://github.com/aps4934/trading_bot">Automated Trading Bot</a></h3>
-      <p>Algorithmic execution engine that processes real-time market data to place automated buy/sell orders based on technical indicators.</p>
+      <div align="center">
+        <h3>📈 <a href="https://github.com/aps4934/trading_bot">Automated Trading Bot</a></h3>
+      </div>
+      <p>High-performance algorithmic execution engine that computes live technical indicators and issues automated orders via broker APIs.</p>
       <ul>
-        <li>Real-time market signal analysis using technical indicators.</li>
-        <li>Broker API integration with robust risk management controls.</li>
-        <li>Built with high-throughput event-driven Python architecture.</li>
+        <li><b>Market Analytics:</b> Real-time streaming of price action and technical indicator signals.</li>
+        <li><b>Risk Architecture:</b> Configurable stop-loss, position sizing, and risk parameters.</li>
+        <li><b>Low Latency:</b> Built on event-driven Python pipelines for prompt order dispatch.</li>
       </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Trading_APIs-005571?style=flat-square" />
-        <img src="https://img.shields.io/badge/Algorithms-FFA116?style=flat-square" />
-      </p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28"/>
+        <img src="https://img.shields.io/badge/Trading_APIs-005571?style=for-the-badge" height="28"/>
+        <img src="https://img.shields.io/badge/Algorithms-FFA116?style=for-the-badge" height="28"/>
+      </div>
     </td>
     <td width="50%" valign="top">
-      <h3>💬 <a href="https://github.com/aps4934/Real-Time_Chat_Application">Real-Time Chat Application</a></h3>
-      <p>Scalable, low-latency messaging application supporting bi-directional communication channels and instant message delivery.</p>
+      <div align="center">
+        <h3>💬 <a href="https://github.com/aps4934/Real-Time_Chat_Application">Real-Time Chat Engine</a></h3>
+      </div>
+      <p>Low-latency bidirectional messaging application featuring dynamic chat rooms, instant status updates, and responsive UI.</p>
       <ul>
-        <li>Persistent bi-directional WebSocket connections.</li>
-        <li>Responsive user interface with clean room and user management.</li>
-        <li>Asynchronous backend message routing and state management.</li>
+        <li><b>Persistent WebSockets:</b> Full-duplex client-server communication channels.</li>
+        <li><b>Responsive UI:</b> Modern interface built with React.js and modular CSS architecture.</li>
+        <li><b>Room State Management:</b> Asynchronous user presence detection and broadcast routing.</li>
       </ul>
-      <p>
-        <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-      </p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="28"/>
+        <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" height="28"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" height="28"/>
+      </div>
     </td>
   </tr>
 </table>
 
----
-
-## 🏆 Key Achievements & Certifications
-
-- 🧩 **350+ Problems Solved** on LeetCode & competitive platforms ([@aditya_0013](https://leetcode.com/u/aditya_0013)).
-- 🎯 **Adobe India Hackathon** Technical Assessment Round Qualifier.
-- 📜 **Python (Basic) Certification** — HackerRank / Recognized Assessment.
-- 📜 **SQL (Basic) Certification** — HackerRank / Recognized Assessment.
-- 🌟 **4-Year Continuous Contribution Streak** across 2023, 2024, 2025, and 2026.
+<br/>
 
 ---
 
-## 📊 GitHub Analytics
+## 🏆 Achievements & Coding Honors
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aps4934&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Aditya's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aps4934&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+
+```
+╔═══════════════════════════════════════════════════════════════════════════════════╗
+║  🧩 350+ LeetCode DSA Solutions Solved across Arrays, Trees, Graphs & DP          ║
+║  🎯 Adobe India Hackathon — Qualified Technical Assessment Round                  ║
+║  📜 Python (Basic) & SQL (Basic) Certified — Recognized Technical Assessments     ║
+║  🌟 4-Year Continuous Contribution Streak: 2023 ("ADITYA") • 2024 ("PRATAP")      ║
+║     • 2025 ("SINGH") • 2026 ("APS") on GitHub                                     ║
+╚═══════════════════════════════════════════════════════════════════════════════════╝
+```
+
 </div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aps4934&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
-</p>
+<br/>
+
+---
+
+## 📊 Live Coding Analytics & Metrics
+
+<div align="center">
+
+  <!-- LeetCode Card & GitHub Streak Card -->
+  <table border="0">
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://leetcode.com/u/aditya_0013">
+          <img src="https://leetcard.jacoblin.cool/aditya_0013?theme=dark&font=Fira%20Code" alt="LeetCode Stats" width="100%" />
+        </a>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://github.com/aps4934/streak">
+          <img src="https://streak-stats.demolab.com/?user=aps4934&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak" width="100%" />
+        </a>
+      </td>
+    </tr>
+  </table>
+
+  <!-- Dynamic Quote Card -->
+  <p align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dynamic Quote" width="95%" />
+  </p>
+
+</div>
+
+<br/>
 
 ---
 
 <div align="center">
 
-### 🤝 Let's Connect & Collaborate!
+### 🤝 Let's Connect & Build Something Impactful!
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-22C55E?style=for-the-badge&logo=render&logoColor=white)](https://portfolio-3hns.onrender.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aps4934g)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/aditya_0013)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sadityapratap070@gmail.com)
+<p align="center">
+  <a href="https://portfolio-3hns.onrender.com/"><img src="https://img.shields.io/badge/🌐_Visit_Portfolio-00F5FF?style=for-the-badge&logoColor=black" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/aps4934g"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/u/aditya_0013"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="mailto:sadityapratap070@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-⭐ *Feel free to explore my repositories and reach out for engineering opportunities or collaborations!*
+⭐ *Open to software engineering opportunities, backend development, and AI engineering collaborations!*
+
+<br/>
+
+<!-- Dynamic Animated Waving Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2&height=120&section=footer" width="100%" alt="Footer Banner"/>
 
 </div>
